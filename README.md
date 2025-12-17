@@ -39,7 +39,6 @@ All models are available on Hugging Face and support out-of-the-box inference us
 
 ### 🏆 Model Zoo & Performance
 The following table lists our models with their Hugging Face links and grounding performance:
-
 <table>
   <thead>
     <tr>
@@ -111,18 +110,18 @@ The following table lists our models with their Hugging Face links and grounding
     </tr>
     <tr>
       <td><a href="https://huggingface.co/TencentARC/TimeLens-8B"><b>TimeLens-8B</b>🚀</a></td>
-      <td align="center"><b>72.0</b></td>
-      <td align="center"><b>56.3</b></td>
-      <td align="center"><b>29.2</b></td>
-      <td align="center"><b>50.3</b></td>
-      <td align="center"><b>64.5</b></td>
-      <td align="center"><b>53.7</b></td>
+      <td align="center"><b>76.6</b></td>
+      <td align="center"><b>63.0</b></td>
       <td align="center"><b>35.2</b></td>
-      <td align="center"><b>48.7</b></td>
-      <td align="center"><b>75.6</b></td>
-      <td align="center"><b>65.3</b></td>
-      <td align="center"><b>51.3</b></td>
-      <td align="center"><b>61.5</b></td>
+      <td align="center"><b>55.2</b></td>
+      <td align="center"><b>68.9</b></td>
+      <td align="center"><b>58.4</b></td>
+      <td align="center"><b>40.6</b></td>
+      <td align="center"><b>53.2</b></td>
+      <td align="center"><b>80.2</b></td>
+      <td align="center"><b>71.6</b></td>
+      <td align="center"><b>55.5</b></td>
+      <td align="center"><b>65.5</b></td>
     </tr>
   </tbody>
 </table>
