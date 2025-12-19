@@ -15,11 +15,15 @@ TimeLens rethinks video temporal grounding (VTG) with MLLMs along two axes:
 - **Data Quality**. We expose critical quality issues in existing VTG benchmarks and propose quality-assured datasets for both training and evaluation.
 - **Algorithmic Design**. Building upon reliable data, we explore effective timestamp encoding strategies and training recipes, achieving state-of-the-art performance among open-source models.
 
-## 🔥 Highlights
+## 📚 Quick Navigation
 In this repository, we release:
-- [TimeLens-Bench](https://huggingface.co/datasets/TencentARC/TimeLens-Bench): a comprehensive, high-quality evaluation benchmark for video temporal grounding, consisting of Charades-TimeLens, ActivityNet-TimeLens and QVHighlights-TimeLens.
-- [TimeLens-100K](https://huggingface.co/datasets/TencentARC/TimeLens-100K): a large-scale, diverse, high-quality training dataset for video temporal grounding, annotated with Gemini-2.5-Pro.
-- [TimeLens Models](#-using-timelens-models): State-of-the-art open-source models for video temporal grounding.
+- 🤖 **TimeLens Models**: State-of-the-art open-source models for video temporal grounding.
+  - [Model Usage](#-using-timelens-models)
+- 📊 **TimeLens-Bench**: a comprehensive, high-quality evaluation benchmark for video temporal grounding.
+  - 🏆 [Leaderboard](https://timelens-arc-lab.github.io/#leaderboard)
+  - [Evaluation Guide](#-evaluation-on-timelens-bench)
+- 🏋️ **TimeLens-100K**: a large-scale, diverse, high-quality training dataset for video temporal grounding, annotated with Gemini-2.5-Pro.
+  - [Training Guide](#️-training-on-timelens-100k)
 
 ## 📦 Installation
 
@@ -132,7 +136,10 @@ The following table lists our models with their Hugging Face links and grounding
   </tbody>
 </table>
 
-> **Note:** TimeLens-7B is fine-tuned from Qwen2.5-VL-7B-Instruct, and TimeLens-8B is fine-tuned from Qwen3-VL-8B-Instruct.
+> TimeLens-7B is fine-tuned from Qwen2.5-VL-7B-Instruct, and TimeLens-8B is fine-tuned from Qwen3-VL-8B-Instruct.
+
+> [!NOTE]
+> For detailed comparison with other models, please refer to the 🏆 [Leaderboard](https://timelens-arc-lab.github.io/#leaderboard).
 
 
 ## 📊 Evaluation on TimeLens-Bench
@@ -309,7 +316,12 @@ Our training code will be released soon! Stay tuned!
 If you find our paper, code, model, and data helpful for your research and applications, please consider giving a star ⭐ and citation 📝 :)
 
 ```bibtex
-TODO
+@article{zhang2025timelens,
+  title={TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs},
+  author={Zhang, Jun and Wang, Teng and Ge, Yuying and Ge, Yixiao and Li, Xinhao and Shan, Ying and Wang, Limin},
+  journal={arXiv preprint arXiv:2512.14698},
+  year={2025}
+}
 ```
 
 ## 🙏 Acknowledgement
